@@ -30,6 +30,8 @@ Pushes content directly to LinkedIn via the LinkedIn API on your chosen schedule
 
 ## Setup Steps
 
+* Download or Copy the Template JSON from here -> [LinkedIn AI Content Automation JSON](https://github.com/themubiin/Ai-LinkedIn-Engine/blob/main/LinkedIn%20AI%20Content%20Automation.json)
+
 1. Connect OpenAI API (text + images)
 2. Connect LinkedIn API for automated publishing
 3. Set schedule triggers (daily/weekly posts)
@@ -56,6 +58,7 @@ Pushes content directly to LinkedIn via the LinkedIn API on your chosen schedule
 
 ### **Estimated Cost:** $5–$15/month (OpenAI usage only)
 
+
 ---
 
 ## Why This Workflow Matters
@@ -63,3 +66,23 @@ Pushes content directly to LinkedIn via the LinkedIn API on your chosen schedule
 This system turns LinkedIn from a daily writing struggle into a **hands-free, automated growth engine** that works in the background while you sleep.
 
 Ideal for **founders, marketers, coaches, and creators** who want top-tier content without spending hours every day.
+
+
+
+
+## 🔗 Connect With Me
+
+* [Facebook](https://facebook.com/the.mubiin)
+
+* [LinkedIn](linkedin.com/in/mubiiin)
+
+* [Portfolio](https://mubin.eu)
+
+* [Website](https://webdextro.org) 
+
+For help, visit the official docs:  
+
+[OpenAI API Docs](https://platform.openai.com/docs)
+
+For LinkedIn API setup:  
+[LinkedIn Developer Portal](https://www.linkedin.com/developers/)

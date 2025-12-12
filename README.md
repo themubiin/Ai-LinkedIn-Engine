@@ -1,5 +1,10 @@
 # Automated LinkedIn Content Engine (Powered by GPT-4 & DALL·E)
 
+<p align="center">
+  <img src="https://github.com/themubiin/Ai-LinkedIn-Engine/blob/main/image.jpg" width="700">
+</p>
+
+
 ## What It Does
 
 * Generates trending, high-impact LinkedIn content ideas using AI
